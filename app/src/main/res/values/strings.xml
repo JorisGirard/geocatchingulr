@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">geocatchingulr</string>
+    <string name="je_joue">Je joue ...</string>
+    <string name="seul">Seul</string>
+    <string name="en_quipe">En équipe</string>
 </resources>
